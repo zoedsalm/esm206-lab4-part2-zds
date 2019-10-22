@@ -1,0 +1,15 @@
+---
+title: "ESM 206 Lab 4: Interactive Graph Examples"
+author: "Zoe Duerksen-Salm"
+date: "10/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here, we'll practice creating some interactive graphs and tables using built-in datasets in R packages.
+
+- Interactive plots: {plotly}
+- Interactive 
