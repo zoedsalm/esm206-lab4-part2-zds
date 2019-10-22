@@ -44,3 +44,14 @@ ggplotly(iris_graph)
 
 ```
 
+### b. Interactive table using DT
+
+Data set,msleep, already exists in R so we don't need to read it in.
+
+```{r}
+
+datatable(msleep)
+
+```
+
+
